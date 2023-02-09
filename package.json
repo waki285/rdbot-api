@@ -1,0 +1,14 @@
+{
+  "name": "rdbot-api",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "repository": "https://github.com/waki285/rdbot-api",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "discord-api-types": "^0.37.31",
+    "discord-interactions": "^3.3.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
