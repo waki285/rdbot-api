@@ -6,6 +6,7 @@
   "license": "Apache-2.0",
   "private": false,
   "dependencies": {
+    "@vercel/node": "1.14.1",
     "discord-api-types": "^0.37.31",
     "discord-interactions": "^3.3.0",
     "dotenv": "^16.0.3",
